@@ -1,9 +1,8 @@
 - 👋 Hi, I’m @offedward
-- 👀 I’m interested in Frontend Web Development
-- 🌱 I’m currently learning Javascript and Vue.js
-- 💞️ I’m looking to collaborate on small projects
-- 📫 How to reach me : via social-media - instagram : x.edward.1
--
+- 👀
+- 💞️ I’m currently working with my highschool robotic group
+- 📫 How to reach me :
+- instagram : off.edward
 
 <!---
 offedward/offedward is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
