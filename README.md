@@ -1,13 +1,7 @@
-<div id="header" align="center">
-    <img src="https://tenor.com/view/hacker-meme-hacker-hacker-icon-gamer-nekro-mongas-gif-24894538.gif" width="100"/>
+<div align="center">
+<img src="https://tenor.com/view/hacker-hacker-man-matrix-codes-computer-language-gif-16612917.gif" width="600" height="300"/>
 </div>
-<h1 align="center">
-  hi there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
-  <img src="https://tenor.com/view/hacker-hacker-man-matrix-codes-computer-language-gif-16612917.gif" width="600" height="300"/>
 
----
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
@@ -18,7 +12,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" width="40" height="40"/>
 </div>
----
+
 
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=offedward&theme=dark&background=000000)](https://git.io/streak-stats)
