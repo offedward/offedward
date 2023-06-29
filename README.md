@@ -1,5 +1,5 @@
 <div id="header" align="center">
-    <img src="https://github.com/offedward/offedward/assets/101495776/88c8a257-844a-4ac5-9eab-7f346af9ecfc.gif" width="100"/>
+    <img src="https://tenor.com/view/hacker-meme-hacker-hacker-icon-gamer-nekro-mongas-gif-24894538.gif" width="100"/>
 </div>
 
 <div id="badges" align="center">
@@ -17,20 +17,17 @@
     </a>
 </div>
 <h1 align="center">
-  hey there
+  hy there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+  <img src="https://tenor.com/view/hacker-hacker-man-matrix-codes-computer-language-gif-16612917.gif" width="600" height="300"/>
 </div>
 ---
 
 ### :man_technologist: About Me :
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 
-- :seedling: Exploring Technical Content Writing.
-
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+- :zap: In my free time, I do some ethical hacking courses and applications.
 
   ---
 
