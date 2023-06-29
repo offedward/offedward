@@ -1,3 +1,3 @@
 <div id="header" align="center">
-    <img src="https://giphy.com/gifs/pudgypenguins-data-code-coding-2IudUHdI075HL02Pkk.gif" width="100"/>
+    <img src="https://tenor.com/view/linux-computer-os-ghosth-cyber-gif-25074749.gif" width="100"/>
 </div>
